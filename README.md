@@ -14,7 +14,7 @@ Esta versión corresponde a la **edición modular refactorizada**, basada en pri
 
 ---
 
-![WiFi Scanner Preview](https://raw.githubusercontent.com/Pablitus666/Wifi---Scanner/master/images2/Preview.png)
+![WiFi Scanner Preview](https://raw.githubusercontent.com/Pablitus666/Pablitus666-Wifi---Scanner/main/images2/Preview.png)
 
 ---
 
