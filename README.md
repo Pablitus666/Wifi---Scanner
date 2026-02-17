@@ -105,7 +105,7 @@ python main.py
 
 ### 📦 Ejecutable (.exe)
 
-1. Descargar el archivo .exe desde la sección **Releases** del repositorio.
+1. Descargar el archivo .exe desde la sección [**Releases**](https://github.com/Pablitus666/Wifi---Scanner/releases) del repositorio.
 2. Ejecutar directamente el archivo (no requiere instalación).
 3. El ejecutable es portable, no genera instalador ni modifica el sistema.
 
